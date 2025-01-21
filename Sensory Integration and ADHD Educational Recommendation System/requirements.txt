@@ -1,0 +1,11 @@
+streamlit
+plotly
+pandas
+numpy
+scikit-learn
+typing-extensions
+PyPDF2
+python-docx 
+nltk 
+spacy 
+scikit-learn 
